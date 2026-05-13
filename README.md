@@ -10,6 +10,3 @@
 | 用户协议 | [terms_of_service.html](https://siliscar.github.io/taicikong-legal/terms_of_service.html) |
 | 版权声明 | [copyright_notice.html](https://siliscar.github.io/taicikong-legal/copyright_notice.html) |
 
-## 联系方式
-
-taicikong@outlook.com
